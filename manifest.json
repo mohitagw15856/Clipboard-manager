@@ -1,0 +1,66 @@
+{
+  "manifest_version": 3,
+  "name": "Multi-Clipboard Manager",
+  "version": "1.0",
+  "description": "Manage multiple clipboard items with custom keyboard shortcuts",
+  "permissions": [
+    "storage",
+    "clipboardWrite",
+    "clipboardRead"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "commands": {
+    "paste-slot-1": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+1"
+      },
+      "description": "Paste clipboard slot 1"
+    },
+    "paste-slot-2": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+2"
+      },
+      "description": "Paste clipboard slot 2"
+    },
+    "paste-slot-3": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+3"
+      },
+      "description": "Paste clipboard slot 3"
+    },
+    "paste-slot-4": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+4"
+      },
+      "description": "Paste clipboard slot 4"
+    },
+    "paste-slot-5": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+5"
+      },
+      "description": "Paste clipboard slot 5"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

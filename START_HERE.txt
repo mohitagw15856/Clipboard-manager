@@ -1,0 +1,82 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║        WELCOME TO MULTI-CLIPBOARD MANAGER FOR CHROME!            ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+Thank you for downloading Multi-Clipboard Manager!
+
+This Chrome extension will help you save multiple text snippets and 
+paste them instantly using keyboard shortcuts.
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║  QUICK START - 3 SIMPLE STEPS                                     ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+  1️⃣  Install the Extension
+      → Open Chrome: chrome://extensions/
+      → Enable "Developer mode"
+      → Click "Load unpacked"
+      → Select this folder
+
+  2️⃣  Save Your First Text
+      → Click the extension icon
+      → Type text in Slot 1
+      → Click "Save"
+
+  3️⃣  Use the Shortcut
+      → Click in any text field
+      → Press: Ctrl + Shift + 1
+      → Your text appears! ✨
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║  DOCUMENTATION FILES                                              ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+  📄 QUICK_START.txt      → Fast visual guide (start here!)
+  📄 INSTALL.md           → Step-by-step installation
+  📄 README.md            → Complete documentation
+  📄 USAGE_GUIDE.md       → Examples and workflows
+  📄 TROUBLESHOOTING.md   → Fix common issues
+  📄 PROJECT_SUMMARY.md   → Technical overview
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║  NEED HELP?                                                       ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+  1. Read QUICK_START.txt for a visual guide
+  2. Check TROUBLESHOOTING.md for common issues
+  3. Review README.md for detailed information
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║  WHAT'S INCLUDED                                                  ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+  ✅ 5 clipboard slots for text
+  ✅ Customizable keyboard shortcuts
+  ✅ Works on all websites
+  ✅ Smart pasting into text fields
+  ✅ Visual notifications
+  ✅ Easy-to-use popup interface
+  ✅ Persistent storage (saves your text)
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║  RECOMMENDED READING ORDER                                        ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+  1. QUICK_START.txt       (3 minutes)
+  2. INSTALL.md            (5 minutes) 
+  3. USAGE_GUIDE.md        (10 minutes)
+  4. README.md             (full reference)
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║  ENJOY YOUR ENHANCED CLIPBOARD!                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+Save time • Work faster • Be more productive
